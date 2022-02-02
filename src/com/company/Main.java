@@ -15,6 +15,7 @@ public class Main {
         beksultan.weight = 66;
         beksultan.run();
 
+        //iuyuihkiu
         Person nursultan = new Person();
         nursultan.name = "Sultann";
         nursultan.lastName = "Ulanb ek uulu";
